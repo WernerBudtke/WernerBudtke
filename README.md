@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in working as full stack developer. 
 
-- 📫 How to reach me https://www.linkedin.com/in/federico-werner-budtke-644362217/
+- 📫 How to reach me https://www.linkedin.com/in/fwbudtke/
 - 🧳 Portfolio:
     - 🕺 Own Projects FULL STACK: 
     - WebAPP Travelling - https://github.com/WernerBudtke/mytinerary-budtke 
